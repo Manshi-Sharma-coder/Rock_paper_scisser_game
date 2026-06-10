@@ -46,6 +46,10 @@ The player competes against the computer, which makes random choices.
 5. Display result  
 
 ---
+---
+# 👩‍💻 Author
+Manshi kumari
+python beginner Develop
 
 ## 💻 How to Run
 
