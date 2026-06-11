@@ -48,8 +48,8 @@ The player competes against the computer, which makes random choices.
 ---
 ---
 # 👩‍💻 Author
-Manshi kumari
-python beginner Develop
+- Manshi kumari
+- python beginner Develop
 
 ## 💻 How to Run
 
